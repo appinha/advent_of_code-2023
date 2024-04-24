@@ -22,9 +22,9 @@ class DayPuzzleSolver():
 
         return result
 
-
     def solve_part_2(self, raw_input):
-        ...
+        games = process_input(raw_input)
+        return sum([lib.prod(list(game.maximums.values())) for game in games ])
 
 
 limits = { "red": 12, "green": 13, "blue": 14 }
