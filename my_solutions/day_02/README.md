@@ -1,12 +1,12 @@
-# Day X: Title
+# Day 2: Cube Conundrum
 
 ## Summary
 
-📃 **Input:** .
+📃 **Input:** information on the games played.
 
-⭐ **Part One:** .
+⭐ **Part One:** find the sum of the IDs of the games that would have been possible given the requirements.
 
-⭐ **Part Two:** .
+⭐ **Part Two:** find the sum of the power of the minimum set of each game.
 
 ## Puzzle instructions
-https://adventofcode.com/2021/day/X
+https://adventofcode.com/2023/day/2

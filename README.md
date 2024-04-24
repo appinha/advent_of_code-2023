@@ -97,4 +97,6 @@ $ make test d=12 p=1
 
 | DAY							| PUZZLE TITLE	| PUZZLE SUMMARY
 | :-:							| :-						| :-
-| [📁 01](my_solutions/day_01)	| **Title**		| 📃 **Input:** description.<br />⭐ **Part One:** description. <br />⭐ **Part Two:** description.
+| [📁 01](my_solutions/day_01)	| **Trebuchet?!**		| 📃 **Input:** the calibration document (a list of strings).<br />⭐ **Part One:** find the sum of all of the calibration values only considering the digits in the strings. <br />⭐ **Part Two:** find the sum of all of the calibration values considering both digits and numbers written in full.
+| [📁 02](my_solutions/day_02)	| **Cube Conundrum**		| 📃 **Input:** information on the games played.<br />⭐ **Part One:** find the sum of the IDs of the games that would have been possible given the requirements. <br />⭐ **Part Two:** find the sum of the power of the minimum set of each game.
+| [📁 03](my_solutions/day_03)	| **Title**		| 📃 **Input:** description.<br />⭐ **Part One:** description. <br />⭐ **Part Two:** description.
