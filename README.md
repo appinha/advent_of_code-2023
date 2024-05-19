@@ -6,7 +6,6 @@
 	<i>My solutions for <b>Advent of Code 2023</b>.</i>
 </p>
 
-
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/appinha/advent_of_code-2023?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/appinha/advent_of_code-2023?color=blueviolet" />
@@ -16,8 +15,6 @@
 </p>
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
-	<span> · </span>
 	<a href="#-what-is-advent-of-code">What is <i>Advent of Code</i>?</a>
 	<span> · </span>
 	<a href="#-contents">Contents</a>
@@ -29,13 +26,9 @@
 
 ---
 
-## 🗣️ About
+## 🌟 What is _Advent of Code_?
 
-(TODO: write)
-
-## 🌟 What is *Advent of Code*?
-
-	🚀 TLDR: an online event where a two-part programming puzzle is released each day from Dec 1st to the 25th.
+    🚀 TLDR: an online event where a two-part programming puzzle is released each day from Dec 1st to the 25th.
 
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](http://was.tl/). In his words:
 
@@ -51,11 +44,11 @@ My solutions for the puzzles are available in the folder [📁 my_solutions](my_
 
 Inside each subfolder, the following files can be found:
 
-* `input_test.txt` - contains input from tests given in the puzzle.
-* `input.txt` - contains my personal input for the puzzle.
-* `main.py` - Python code for solving the puzzle.
-* `README.md` - contains a tldr of the puzzle.
-* `solutions.txt` - contains the solutions to my inputs for the puzzle.
+- `input_test.txt` - contains input from tests given in the puzzle.
+- `input.txt` - contains my personal input for the puzzle.
+- `main.py` - Python code for solving the puzzle.
+- `README.md` - contains a tldr of the puzzle.
+- `solutions.txt` - contains the solutions to my inputs for the puzzle.
 
 ## 🛠️ Usage
 
@@ -99,4 +92,4 @@ $ make test d=12 p=1
 | :-:							| :-						| :-
 | [📁 01](my_solutions/day_01)	| **Trebuchet?!**		| 📃 **Input:** the calibration document (a list of strings).<br />⭐ **Part One:** find the sum of all of the calibration values only considering the digits in the strings. <br />⭐ **Part Two:** find the sum of all of the calibration values considering both digits and numbers written in full.
 | [📁 02](my_solutions/day_02)	| **Cube Conundrum**		| 📃 **Input:** information on the games played.<br />⭐ **Part One:** find the sum of the IDs of the games that would have been possible given the requirements. <br />⭐ **Part Two:** find the sum of the power of the minimum set of each game.
-| [📁 03](my_solutions/day_03)	| **Title**		| 📃 **Input:** description.<br />⭐ **Part One:** description. <br />⭐ **Part Two:** description.
+| [📁 03](my_solutions/day_03)	| **Gear Ratios**		| 📃 **Input:** the engine schematic, a visual representation of the engine.<br />⭐ **Part One:** find the sum of all of the part numbers in the engine schematic. <br />⭐ **Part Two:** find the sum of all of the gear ratios in the engine schematic.
