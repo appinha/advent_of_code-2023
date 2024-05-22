@@ -6,7 +6,7 @@
 
 ⭐ **Part One:** find the lowest location number that corresponds to any of the initial seed numbers.
 
-⭐ **Part Two:** .
+⭐ **Part Two:** same as part one, but with seed ranges.
 
 ## Puzzle instructions
 https://adventofcode.com/2021/day/5
