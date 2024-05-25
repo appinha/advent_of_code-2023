@@ -4,10 +4,6 @@ Distance:  9  40  200
 
 <===>
 
-INPUT
-:-> solution=? <-:
-
-<--->
-
-INPUT
-:-> solution=? <-:
+Time:      7  15   30
+Distance:  9  40  200
+:-> solution=71503 <-:
